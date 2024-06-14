@@ -13,7 +13,7 @@
     color: #272727;
     font-size: 50px;
     font-weight: 800px;
-  }
+}
 .stat{
     background-image: url('../Year Assets/Banner Image.png');
     opacity: 1;
@@ -67,20 +67,20 @@
     padding: 5px 5px;
 }
 .flower {
-  padding: 30px 30px 0px 40px;
-  display: flex;
-  align-items: center;
-  justify-content: space-evenly;
+padding: 30px 30px 0px 40px;
+display: flex;
+align-items: center;
+justify-content: space-evenly;
 }
 .flowering1 {
     width: 400px;
     height: 300px;
 }
 .flower1 {
-  border-radius: 300px 300px 0px 0px;
+border-radius: 300px 300px 0px 0px;
 }
 .flower2 {
-  border-radius: 200px 200px 0px 0px;
+border-radius: 200px 200px 0px 0px;
 }
 .flower3{
     border-radius: 200px 200px 0px 0px;
@@ -97,17 +97,17 @@
 .header2 {
     background-color: #e554731a;
     margin-top: 50px;
-  }
+}
 .section-description {
     text-align: center;
     font-size: 20px;
     color: #272727;
-  }
+}
 #button{
     padding-left: 280px;
     margin-top: 20px;
- }
- .txt{
+}
+.txt{
 border-radius: 30px;
 background: #FFF;
 width: 500px;
@@ -121,8 +121,7 @@ padding-right: 10px;
 footer {
     background: #0b0d17;
     width: 1350px;
-    height: 400px;
-    
+    height: 400px; 
 }
 
 .footer_ending {
@@ -138,17 +137,17 @@ footer {
     font-size: 35px;
     font-weight: 800;
     align-items: center;
-  }
-  #h3{
+}
+#h3{
     padding: 40px;
-  }
-  #foot{
+}
+#foot{
     margin-top: 40px;
-  }
-  .logo-container{
+}
+.logo-container{
     margin-top: 10px;
-  }
-  .company-logo{
+}
+.company-logo{
     display: flex;
     gap: 53px;
     justify-content: center;
@@ -156,11 +155,11 @@ footer {
     align-items: center;
     margin-top: 30px;
     margin-bottom: 30px;
-  }
-  .logo {
+}
+.logo {
     font-weight: 700;
     font-size: 16px;
     line-height: 24px;
     font-feature-settings: "liga" off;
     color: #3a3a3a;
-  }
+}
